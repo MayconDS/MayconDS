@@ -19,4 +19,8 @@
   <img align="right" alt="MD-pic" height="150" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/86381282?v=4?width=676&height=676">
 </div>
 
+  <div align: "center"><br> 
+  <a href="https://www.linkedin.com/in/maycondouglasss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 

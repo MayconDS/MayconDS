@@ -5,7 +5,7 @@
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MayconDS&bg_color=0d1117&color=574AE2&line=574AE2&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayconds&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayconds&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <br />
@@ -39,6 +39,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![S.O.L.I.D](https://img.shields.io/badge/-S.O.L.I.D-0D1117?style=for-the-badge&abelColor=0D1117&textColor=0D1117)&nbsp;
 
 <br />
 
